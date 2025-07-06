@@ -1,0 +1,20 @@
+# Node.js backend
+node_modules/
+.env
+uploads/
+logs/
+*.log
+
+# React frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# System + editor junk
+.DS_Store
+.vscode/
+*.log
+
+# Optional: OS / IDE junk
+Thumbs.db
+*.swp
